@@ -4,7 +4,7 @@ import logging
 
 # --- Configuration ---
 AWS_ACCESS_KEY = "AKIATM2WCSDSGMKRKJ74"
-AWS_SECRET_KEY = "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"
+AWS_SECRET_KEY = ""
 AWS_REGION = "ap-south-1"
 DATABASE_NAME = "nexus-mall"
 TABLE_NAME = "fortinet"
